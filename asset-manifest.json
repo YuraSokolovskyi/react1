@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/YuraSokolovskyi/react1/static/css/main.b4cf56f9.css",
-    "main.js": "/YuraSokolovskyi/react1/static/js/main.7d4c540c.js",
-    "static/media/InceptionImg.jpg": "/YuraSokolovskyi/react1/static/media/InceptionImg.857aa2b8836b975be174.jpg",
-    "static/media/BIOImg.jpg": "/YuraSokolovskyi/react1/static/media/BIOImg.9ba03717a0ec37e77851.jpg",
-    "index.html": "/YuraSokolovskyi/react1/index.html",
-    "main.b4cf56f9.css.map": "/YuraSokolovskyi/react1/static/css/main.b4cf56f9.css.map",
-    "main.7d4c540c.js.map": "/YuraSokolovskyi/react1/static/js/main.7d4c540c.js.map"
+    "main.css": "/react1/static/css/main.b4cf56f9.css",
+    "main.js": "/react1/static/js/main.e4261237.js",
+    "static/media/InceptionImg.jpg": "/react1/static/media/InceptionImg.857aa2b8836b975be174.jpg",
+    "static/media/BIOImg.jpg": "/react1/static/media/BIOImg.9ba03717a0ec37e77851.jpg",
+    "index.html": "/react1/index.html",
+    "main.b4cf56f9.css.map": "/react1/static/css/main.b4cf56f9.css.map",
+    "main.e4261237.js.map": "/react1/static/js/main.e4261237.js.map"
   },
   "entrypoints": [
     "static/css/main.b4cf56f9.css",
-    "static/js/main.7d4c540c.js"
+    "static/js/main.e4261237.js"
   ]
 }
