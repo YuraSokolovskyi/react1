@@ -1,0 +1,74 @@
+.taskContainer{
+    padding: 0 50px;
+    display: flex;
+}
+
+.movieImg,
+.bioImg{
+    width: 400px;
+    margin-right: 30px;
+}
+
+.movieTitle{
+    margin: 0 0 10px;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.movieDirector{
+    margin: 0;
+}
+
+.movieYear{
+    margin: 0;
+}
+
+.movieProduction{
+    margin: 0;
+}
+
+.bioName{
+    margin: 0 0 10px;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.bioAddress{
+    margin: 0;
+}
+
+.bioEmail{
+    margin: 0 0 10px;
+}
+
+.bioDesc{
+    font-weight: 600;
+}
+
+.bioEducation{
+    margin: 0 0 5px;
+    font-weight: 600;
+}
+
+.bioEducationList{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.bioEducationListItem{
+    padding-left: 10px;
+}
+
+.bioEducationListItemTitle{
+    font-weight: 500;
+    font-size: 16px;
+    margin: 0;
+}
+
+.bioEducationListItemDuration{
+    margin: 0;
+    font-weight: 400;
+    font-size: 14px;
+    color: rgb(128, 128, 128);
+}
